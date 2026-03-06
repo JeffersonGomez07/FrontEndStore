@@ -1,5 +1,4 @@
 Frontend Store
-Descripción
 
 Frontend Store es una tienda online moderna desarrollada únicamente con HTML y CSS, completamente responsive y optimizada para todos los dispositivos. Ofrece una experiencia de usuario fluida y navegación intuitiva, enfocada en mostrar productos de manera atractiva y funcional.
 
